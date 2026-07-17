@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://github.com/iwinstar/epg_merge_filter/releases/download/latest/merged_epg.xml.gz"
+#EXTM3U url-tvg="https://epg.aptv.app/pp.xml.gz"
 #EXT-X-APP APTV
 #EXT-X-APTV-TYPE remote
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV1.png" group-title="咪咕央视",CCTV1
