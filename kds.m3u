@@ -273,7 +273,7 @@ https://iptv.yang-1989.xyz/4gtv/pgcj9k?token=7a28ebdc340f108973b55750119fdb4ce90
 #EXTINF:-1 tvg-id="SBN全球財經台" tvg-name="SBN全球財經台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/SBNcaijing.png" group-title="4GTV" http-user-agent="okhttp/3.14.9",SBN 全球財經
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
 https://iptv.yang-1989.xyz/4gtv/hpj7k9?token=7a28ebdc340f108973b55750119fdb4ce9015c6ea95d962c
-#EXTINF:-1 tvg-id="Bloomberg TV" tvg-name="Bloomberg TV" tvg-logo="Bloomberg-TV.png" group-title="4GTV" http-user-agent="okhttp/3.14.9",Bloomberg TV
+#EXTINF:-1 tvg-id="Bloomberg TV" tvg-name="Bloomberg TV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/BLOOMBERGTV.png" group-title="4GTV" http-user-agent="okhttp/3.14.9",Bloomberg TV
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
 https://iptv.yang-1989.xyz/4gtv/u8qp8p?token=7a28ebdc340f108973b55750119fdb4ce9015c6ea95d962c
 #EXTINF:-1 tvg-id="亞洲旅遊台" tvg-name="亞洲旅遊台" tvg-logo="https://raw.githubusercontent.com/HiDigital/Logo/refs/heads/main/%E4%BA%9A%E6%B4%B2%E6%97%85%E6%B8%B8%E5%8F%B0.png" group-title="4GTV" http-user-agent="okhttp/3.14.9",亞洲旅遊
@@ -426,7 +426,7 @@ https://iptv.yang-1989.xyz/4gtv/hmru4d?token=7a28ebdc340f108973b55750119fdb4ce90
 #EXTINF:-1 tvg-id="大愛電視" tvg-name="大愛電視" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/大爱一.png" group-title="4GTV" http-user-agent="okhttp/3.14.9",大愛電視
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
 https://iptv.yang-1989.xyz/4gtv/8j3exs?token=7a28ebdc340f108973b55750119fdb4ce9015c6ea95d962c
-#EXTINF:-1 tvg-id="大愛二台" tvg-name="大愛二台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/大爱二" group-title="4GTV" http-user-agent="okhttp/3.14.9",大愛電視 2
+#EXTINF:-1 tvg-id="大愛二台" tvg-name="大愛二台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/大爱一.png" group-title="4GTV" http-user-agent="okhttp/3.14.9",大愛電視 2
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
 https://iptv.yang-1989.xyz/4gtv/pdnky7?token=7a28ebdc340f108973b55750119fdb4ce9015c6ea95d962c
 #EXTINF:-1 tvg-id="好消息" tvg-name="好消息" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/好消息1.png" group-title="4GTV" http-user-agent="okhttp/3.14.9",好消息 1
@@ -456,7 +456,7 @@ https://iptv.yang-1989.xyz/4gtv/32j7fd?token=7a28ebdc340f108973b55750119fdb4ce90
 #EXTINF:-1 tvg-id="新唐人亞太台" tvg-name="新唐人亞太台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/新唐人亚太.png" group-title="4GTV" http-user-agent="okhttp/3.14.9",新唐人亞太
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
 https://iptv.yang-1989.xyz/4gtv/ybn8xa?token=7a28ebdc340f108973b55750119fdb4ce9015c6ea95d962c
-#EXTINF:-1 tvg-id="Getwin Sports運動台" tvg-name="Getwin Sports運動台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TSL.png" group-title="4GTV" http-user-agent="okhttp/3.14.9",Getwin Sports運動
+#EXTINF:-1 tvg-id="Getwin Sports運動台" tvg-name="Getwin Sports運動台" tvg-logo="https://raw.githubusercontent.com/MZ6625/KDSTV/refs/heads/master/sport.png" group-title="4GTV" http-user-agent="okhttp/3.14.9",Getwin Sports運動
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
 https://iptv.yang-1989.xyz/4gtv/5359qe?token=7a28ebdc340f108973b55750119fdb4ce9015c6ea95d962c
 #EXTINF:-1 tvg-id="ABC Australia 澳洲公廣頻道" tvg-name="ABC Australia 澳洲公廣頻道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ABCAUSTRALIA.png" group-title="4GTV" http-user-agent="okhttp/3.14.9",ABC Australia 澳洲公廣
