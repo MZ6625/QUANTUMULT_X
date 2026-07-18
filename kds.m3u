@@ -133,9 +133,7 @@ http://t.061899.xyz/tl/tl.php?id=qcxj
 http://t.061899.xyz/tl/tl.php?id=yxfy
 #EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/优漫卡通.png" group-title="咪咕央视",优漫卡通
 http://t.061899.xyz/tl/tl.php?id=ymkt
-#EXTINF:-1 tvg-name="Love Nature 4K" tvg-logo="https://github.com/wanglindl/TVlogo/blob/main/img/LoveNarure4K.png" group-title="Love4K",Love Nature 4K
-http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/119322
 #EXTINF:-1 tvg-name="BBC Earth" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/s135387_ld_h8_aa._SL500_FMpng_.png" group-title="Love4K",BBC Earth
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/91f66dd6-f06c-4386-8452-5befcbd4c77f/0.m3u8
-#EXTINF:-1 tvg-name="Love Nature 4K" tvg-logo="https://github.com/wanglindl/TVlogo/blob/main/img/LoveNarure4K.png" group-title="Love4K",Love Nature 4K
+#EXTINF:-1 tvg-name="Love Nature 4K" tvg-logo="https://garyshare.sharewithyou.dpdns.org/logos/Love_Nature.png" group-title="Love4K",Love Nature 4K
 https://pb-ehs1glsha1juy.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ehs1glsha1juy/f2141f37-1f48-475b-ba54-b9efb62346db/0.m3u8
