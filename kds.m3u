@@ -166,7 +166,7 @@ https://iptv.yang-1989.xyz/4gtv/dpyz6r?token=78f3890c9505cc490acfbd4858263039da6
 #EXTINF:-1 tvg-id="TVBS歡樂台" tvg-name="TVBS歡樂台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVBS欢乐.png" group-title="台湾频道" http-user-agent="okhttp/3.14.9",TVBS 歡樂
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
 https://iptv.yang-1989.xyz/4gtv/m6uwjw?token=78f3890c9505cc490acfbd4858263039da6debd33b6bbd63
-#EXTINF:-1 tvg-id="TVBS精採台" tvg-name="TVBS精採台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVBS精彩.png" group-title="台湾频道" http-user-agent="okhttp/3.14.9",TVBS 精採
+#EXTINF:-1 tvg-id="TVBS精采台" tvg-name="TVBS精台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVBS精彩.png" group-title="台湾频道" http-user-agent="okhttp/3.14.9",TVBS 精
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
 https://iptv.yang-1989.xyz/4gtv/5bssw9?token=78f3890c9505cc490acfbd4858263039da6debd33b6bbd63
 #EXTINF:-1 tvg-id="KLT-靖天國際台" tvg-name="KLT-靖天國際台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/靖天国际.png" group-title="台湾频道" http-user-agent="okhttp/3.14.9",靖天國際
@@ -349,7 +349,7 @@ https://iptv.yang-1989.xyz/4gtv/kmwxyv?token=78f3890c9505cc490acfbd4858263039da6
 #EXTINF:-1 tvg-id="豬哥亮歌廳秀" tvg-name="豬哥亮歌廳秀" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/猪哥亮歌厅秀.png" group-title="台湾频道" http-user-agent="okhttp/3.14.9",豬哥亮歌廳秀
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
 https://iptv.yang-1989.xyz/4gtv/juahw4?token=78f3890c9505cc490acfbd4858263039da6debd33b6bbd63
-#EXTINF:-1 tvg-id="採昌影劇台" tvg-name="採昌影劇台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/采昌影剧.png" group-title="台湾频道" http-user-agent="okhttp/3.14.9",採昌影劇
+#EXTINF:-1 tvg-id="采昌影劇台" tvg-name="采昌影劇台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/采昌影剧.png" group-title="台湾频道" http-user-agent="okhttp/3.14.9",昌影劇
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
 https://iptv.yang-1989.xyz/4gtv/a63pf4?token=78f3890c9505cc490acfbd4858263039da6debd33b6bbd63
 #EXTINF:-1 tvg-id="CLASSICA 古典樂" tvg-name="CLASSICA 古典樂" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CLASSICA古典乐.png" group-title="台湾频道" http-user-agent="okhttp/3.14.9",CLASSICA 古典樂
