@@ -166,7 +166,7 @@ https://iptv.yang-1989.xyz/4gtv/dpyz6r?token=78f3890c9505cc490acfbd4858263039da6
 #EXTINF:-1 tvg-id="TVBS歡樂台" tvg-name="TVBS歡樂台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVBS欢乐.png" group-title="台湾频道" http-user-agent="okhttp/3.14.9",TVBS 歡樂
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
 https://iptv.yang-1989.xyz/4gtv/m6uwjw?token=78f3890c9505cc490acfbd4858263039da6debd33b6bbd63
-#EXTINF:-1 tvg-id="TVBS精采台" tvg-name="TVBS精台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVBS精彩.png" group-title="台湾频道" http-user-agent="okhttp/3.14.9",TVBS 精
+#EXTINF:-1 tvg-id="TVBS精采台" tvg-name="TVBS精台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVBS精采.png" group-title="台湾频道" http-user-agent="okhttp/3.14.9",TVBS 精采
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
 https://iptv.yang-1989.xyz/4gtv/5bssw9?token=78f3890c9505cc490acfbd4858263039da6debd33b6bbd63
 #EXTINF:-1 tvg-id="KLT-靖天國際台" tvg-name="KLT-靖天國際台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/靖天国际.png" group-title="台湾频道" http-user-agent="okhttp/3.14.9",靖天國際
