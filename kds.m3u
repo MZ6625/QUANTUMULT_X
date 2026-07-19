@@ -166,7 +166,7 @@ https://iptv.yang-1989.xyz/4gtv/dpyz6r?token=78f3890c9505cc490acfbd4858263039da6
 #EXTINF:-1 tvg-id="TVBS歡樂台" tvg-name="TVBS歡樂台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVBS欢乐.png" group-title="4GTV" http-user-agent="okhttp/3.14.9",TVBS 歡樂
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
 https://iptv.yang-1989.xyz/4gtv/m6uwjw?token=78f3890c9505cc490acfbd4858263039da6debd33b6bbd63
-#EXTINF:-1 tvg-id="TVBS精採台" tvg-name="TVBS精採台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVBS精彩.png" group-title="4GTV" http-user-agent="okhttp/3.14.9",TVBS 精採
+#EXTINF:-1 tvg-id="TVBS精採台" tvg-name="TVBS精採台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVBS精采.png" group-title="4GTV" http-user-agent="okhttp/3.14.9",TVBS 精採
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
 https://iptv.yang-1989.xyz/4gtv/5bssw9?token=78f3890c9505cc490acfbd4858263039da6debd33b6bbd63
 #EXTINF:-1 tvg-id="KLT-靖天國際台" tvg-name="KLT-靖天國際台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/靖天国际.png" group-title="4GTV" http-user-agent="okhttp/3.14.9",靖天國際
@@ -394,13 +394,13 @@ https://iptv.yang-1989.xyz/4gtv/q9cz8n?token=78f3890c9505cc490acfbd4858263039da6
 #EXTINF:-1 tvg-id="LiveABC互動英語頻道" tvg-name="LiveABC互動英語頻道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/LIVEABC互动英语.png" group-title="4GTV" http-user-agent="okhttp/3.14.9",LiveABC互動英語頻道
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
 https://iptv.yang-1989.xyz/4gtv/g2py4d?token=78f3890c9505cc490acfbd4858263039da6debd33b6bbd63
-#EXTINF:-1 tvg-id="ELTV英語學習台" tvg-name="ELTV英語學習台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/爱尔达生活英语.png" group-title="4GTV" http-user-agent="okhttp/3.14.9",ELTA生活英語
+#EXTINF:-1 tvg-id="ELTV英語學習台" tvg-name="ELTV英語學習台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ELTA生活英语.png" group-title="4GTV" http-user-agent="okhttp/3.14.9",ELTA生活英語
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
 https://iptv.yang-1989.xyz/4gtv/8qak5g?token=78f3890c9505cc490acfbd4858263039da6debd33b6bbd63
 #EXTINF:-1 tvg-id="達文西頻道" tvg-name="達文西頻道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/达文西.png" group-title="4GTV" http-user-agent="okhttp/3.14.9",達文西頻道
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
 https://iptv.yang-1989.xyz/4gtv/r8bmuc?token=78f3890c9505cc490acfbd4858263039da6debd33b6bbd63
-#EXTINF:-1 tvg-id="滾動力rollor" tvg-name="滾動力rollor" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/滾动力ROLLOR.png" group-title="4GTV" http-user-agent="okhttp/3.14.9",滾動力rollor
+#EXTINF:-1 tvg-id="滾動力rollor" tvg-name="滾動力rollor" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/滚动力ROLLOR.png" group-title="4GTV" http-user-agent="okhttp/3.14.9",滾動力rollor
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
 https://iptv.yang-1989.xyz/4gtv/esv5mz?token=78f3890c9505cc490acfbd4858263039da6debd33b6bbd63
 #EXTINF:-1 tvg-id="Global Trekker" tvg-name="Global Trekker" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/GLOBALTREKKER.png" group-title="4GTV" http-user-agent="okhttp/3.14.9",Global Trekker
@@ -469,6 +469,7 @@ https://iptv.yang-1989.xyz/4gtv/qesxky?token=78f3890c9505cc490acfbd4858263039da6
 #EXTINF:-1 tvg-id="ABC Australia 澳洲公廣頻道" tvg-name="ABC Australia 澳洲公廣頻道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ABCAUSTRALIA.png" group-title="4GTV" http-user-agent="okhttp/3.14.9",ABC Australia 澳洲公廣
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
 https://iptv.yang-1989.xyz/4gtv/bf3qre?token=78f3890c9505cc490acfbd4858263039da6debd33b6bbd63
+
 
 
 
