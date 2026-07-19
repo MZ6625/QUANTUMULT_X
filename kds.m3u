@@ -470,129 +470,129 @@ https://iptv.yang-1989.xyz/4gtv/qesxky?token=78f3890c9505cc490acfbd4858263039da6
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
 https://iptv.yang-1989.xyz/4gtv/bf3qre?token=78f3890c9505cc490acfbd4858263039da6debd33b6bbd63
 
-#EXTINF:-1 tvg-name="电影_星爷" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="电影频道",电影_星爷
+#EXTINF:-1 tvg-name="电影_星爷" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="经典电影",电影_星爷
 http://cfss.cc/cdn/huya/11342412.flv
-#EXTINF:-1 tvg-name="电影_英叔" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="电影频道",电影_英叔
+#EXTINF:-1 tvg-name="电影_英叔" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="经典电影",电影_英叔
 http://cfss.cc/cdn/huya/11342421.flv
-#EXTINF:-1 tvg-name="电影_发哥" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="电影频道",电影_发哥
+#EXTINF:-1 tvg-name="电影_发哥" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="经典电影",电影_发哥
 http://cfss.cc/cdn/huya/11342387.flv
-#EXTINF:-1 tvg-name="电影_成龙" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="电影频道",电影_成龙
+#EXTINF:-1 tvg-name="电影_成龙" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="经典电影",电影_成龙
 http://cfss.cc/cdn/huya/11342386.flv
-#EXTINF:-1 tvg-name="电影_王晶" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="电影频道",电影_王晶
+#EXTINF:-1 tvg-name="电影_王晶" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="经典电影",电影_王晶
 http://cfss.cc/cdn/huya/11602058.flv
-#EXTINF:-1 tvg-name="电影_强森" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="电影频道",电影_强森
+#EXTINF:-1 tvg-name="电影_强森" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="经典电影",电影_强森
 http://cfss.cc/cdn/huya/21059581.flv
-#EXTINF:-1 tvg-name="电影_漫威" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="电影频道",电影_漫威
+#EXTINF:-1 tvg-name="电影_漫威" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="经典电影",电影_漫威
 http://cfss.cc/cdn/huya/11602034.flv
-#EXTINF:-1 tvg-name="电影_宇宙" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="电影频道",电影_宇宙
+#EXTINF:-1 tvg-name="电影_宇宙" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="经典电影",电影_宇宙
 http://cfss.cc/cdn/huya/11342428.flv
-#EXTINF:-1 tvg-name="电影_武侠" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="电影频道",电影_武侠
+#EXTINF:-1 tvg-name="电影_武侠" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="经典电影",电影_武侠
 http://cfss.cc/cdn/huya/11342427.flv
-#EXTINF:-1 tvg-name="电影_救援" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="电影频道",电影_救援
+#EXTINF:-1 tvg-name="电影_救援" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="经典电影",电影_救援
 http://cfss.cc/cdn/huya/21059594.flv
-#EXTINF:-1 tvg-name="电影_热血" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="电影频道",电影_热血
+#EXTINF:-1 tvg-name="电影_热血" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="经典电影",电影_热血
 http://cfss.cc/cdn/huya/11352934.flv
-#EXTINF:-1 tvg-name="电影_盗墓" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="电影频道",电影_盗墓
+#EXTINF:-1 tvg-name="电影_盗墓" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="经典电影",电影_盗墓
 http://cfss.cc/cdn/huya/21059552.flv
-#EXTINF:-1 tvg-name="电影_贺岁" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="电影频道",电影_贺岁
+#EXTINF:-1 tvg-name="电影_贺岁" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="经典电影",电影_贺岁
 http://cfss.cc/cdn/huya/11601971.flv
-#EXTINF:-1 tvg-name="电影_玄幻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="电影频道",电影_玄幻
+#EXTINF:-1 tvg-name="电影_玄幻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="经典电影",电影_玄幻
 http://cfss.cc/cdn/huya/11342414.flv
-#EXTINF:-1 tvg-name="电影_谍战" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="电影频道",电影_谍战
+#EXTINF:-1 tvg-name="电影_谍战" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="经典电影",电影_谍战
 http://cfss.cc/cdn/huya/21059585.flv
-#EXTINF:-1 tvg-name="电影_战争" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="电影频道",电影_战争
+#EXTINF:-1 tvg-name="电影_战争" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="经典电影",电影_战争
 http://cfss.cc/cdn/huya/21059592.flv
-#EXTINF:-1 tvg-name="电影_喜剧" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="电影频道",电影_喜剧
+#EXTINF:-1 tvg-name="电影_喜剧" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="经典电影",电影_喜剧
 http://cfss.cc/cdn/huya/11352877.flv
-#EXTINF:-1 tvg-name="电影_港片" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="电影频道",电影_港片
+#EXTINF:-1 tvg-name="电影_港片" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="经典电影",电影_港片
 http://cfss.cc/cdn/huya/11602043.flv
-#EXTINF:-1 tvg-name="电影_国产" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="电影频道",电影_国产
+#EXTINF:-1 tvg-name="电影_国产" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="经典电影",电影_国产
 http://cfss.cc/cdn/huya/11352973.flv
-#EXTINF:-1 tvg-name="电影_周星星" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="电影频道",电影_周星星
+#EXTINF:-1 tvg-name="电影_周星星" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="经典电影",电影_周星星
 http://cfss.cc/cdn/huya/11336587.flv
-#EXTINF:-1 tvg-name="电影_李连杰" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="电影频道",电影_李连杰
+#EXTINF:-1 tvg-name="电影_李连杰" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="经典电影",电影_李连杰
 http://cfss.cc/cdn/huya/11342390.flv
-#EXTINF:-1 tvg-name="电影_洪金宝" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="电影频道",电影_洪金宝
+#EXTINF:-1 tvg-name="电影_洪金宝" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="经典电影",电影_洪金宝
 http://cfss.cc/cdn/huya/11279251.flv
-#EXTINF:-1 tvg-name="电影_梁家辉" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="电影频道",电影_梁家辉
+#EXTINF:-1 tvg-name="电影_梁家辉" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="经典电影",电影_梁家辉
 http://cfss.cc/cdn/huya/11342429.flv
-#EXTINF:-1 tvg-name="电影_许冠英" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="电影频道",电影_许冠英
+#EXTINF:-1 tvg-name="电影_许冠英" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="经典电影",电影_许冠英
 http://cfss.cc/cdn/huya/11601972.flv
-#EXTINF:-1 tvg-name="电影_刘德华" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="电影频道",电影_刘德华
+#EXTINF:-1 tvg-name="电影_刘德华" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="经典电影",电影_刘德华
 http://cfss.cc/cdn/huya/11342424.flv
-#EXTINF:-1 tvg-name="电影_斯坦森" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="电影频道",电影_斯坦森
+#EXTINF:-1 tvg-name="电影_斯坦森" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="经典电影",电影_斯坦森
 http://cfss.cc/cdn/huya/21059588.flv
-#EXTINF:-1 tvg-name="电影_小鬼头" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="电影频道",电影_小鬼头
+#EXTINF:-1 tvg-name="电影_小鬼头" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="经典电影",电影_小鬼头
 http://cfss.cc/cdn/huya/11352963.flv
-#EXTINF:-1 tvg-name="电影_八点档" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="电影频道",电影_八点档
+#EXTINF:-1 tvg-name="电影_八点档" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="经典电影",电影_八点档
 http://cfss.cc/cdn/huya/880261.flv
-#EXTINF:-1 tvg-name="电影_蜘蛛侠" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="电影频道",电影_蜘蛛侠
+#EXTINF:-1 tvg-name="电影_蜘蛛侠" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="经典电影",电影_蜘蛛侠
 http://cfss.cc/cdn/huya/21059599.flv
-#EXTINF:-1 tvg-name="电影_贺岁片" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="电影频道",电影_贺岁片
+#EXTINF:-1 tvg-name="电影_贺岁片" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="经典电影",电影_贺岁片
 http://cfss.cc/cdn/huya/11601986.flv
-#EXTINF:-1 tvg-name="电影_功夫片" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="电影频道",电影_功夫片
+#EXTINF:-1 tvg-name="电影_功夫片" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="经典电影",电影_功夫片
 http://cfss.cc/cdn/huya/11352941.flv
-#EXTINF:-1 tvg-name="电影_黑帮片" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="电影频道",电影_黑帮片
+#EXTINF:-1 tvg-name="电影_黑帮片" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="经典电影",电影_黑帮片
 http://cfss.cc/cdn/huya/11336719.flv
-#EXTINF:-1 tvg-name="电影_丧尸片" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="电影频道",电影_丧尸片
+#EXTINF:-1 tvg-name="电影_丧尸片" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="经典电影",电影_丧尸片
 http://cfss.cc/cdn/huya/21059578.flv
-#EXTINF:-1 tvg-name="电影_灾难片" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="电影频道",电影_灾难片
+#EXTINF:-1 tvg-name="电影_灾难片" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="经典电影",电影_灾难片
 http://cfss.cc/cdn/huya/11602075.flv
-#EXTINF:-1 tvg-name="电影_谍战片" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="电影频道",电影_谍战片
+#EXTINF:-1 tvg-name="电影_谍战片" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="经典电影",电影_谍战片
 http://cfss.cc/cdn/huya/21059587.flv
-#EXTINF:-1 tvg-name="电影_战争片" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="电影频道",电影_战争片
+#EXTINF:-1 tvg-name="电影_战争片" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="经典电影",电影_战争片
 http://cfss.cc/cdn/huya/21059574.flv
-#EXTINF:-1 tvg-name="电影_犯罪片" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="电影频道",电影_犯罪片
+#EXTINF:-1 tvg-name="电影_犯罪片" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="经典电影",电影_犯罪片
 http://cfss.cc/cdn/huya/11352974.flv
-#EXTINF:-1 tvg-name="电影_古装片" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="电影频道",电影_古装片
+#EXTINF:-1 tvg-name="电影_古装片" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="经典电影",电影_古装片
 http://cfss.cc/cdn/huya/11336590.flv
-#EXTINF:-1 tvg-name="电影_高分动作" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="电影频道",电影_高分动作
+#EXTINF:-1 tvg-name="电影_高分动作" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="经典电影",电影_高分动作
 http://cfss.cc/cdn/huya/11352884.flv
-#EXTINF:-1 tvg-name="电影_动作电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="电影频道",电影_动作电影
+#EXTINF:-1 tvg-name="电影_动作电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="经典电影",电影_动作电影
 http://cfss.cc/cdn/huya/11602077.flv
-#EXTINF:-1 tvg-name="电影_搞笑喜剧" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="电影频道",电影_搞笑喜剧
+#EXTINF:-1 tvg-name="电影_搞笑喜剧" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="经典电影",电影_搞笑喜剧
 http://cfss.cc/cdn/huya/11342423.flv
-#EXTINF:-1 tvg-name="电影_喜剧专场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="电影频道",电影_喜剧专场
+#EXTINF:-1 tvg-name="电影_喜剧专场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="经典电影",电影_喜剧专场
 http://cfss.cc/cdn/huya/11602044.flv
-#EXTINF:-1 tvg-name="电影_欢笑影院" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="电影频道",电影_欢笑影院
+#EXTINF:-1 tvg-name="电影_欢笑影院" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="经典电影",电影_欢笑影院
 http://cfss.cc/cdn/huya/11352894.flv
-#EXTINF:-1 tvg-name="电影_不挤影院" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="电影频道",电影_不挤影院
+#EXTINF:-1 tvg-name="电影_不挤影院" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="经典电影",电影_不挤影院
 http://cfss.cc/cdn/huya/11352897.flv
-#EXTINF:-1 tvg-name="电影_国产悬疑" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="电影频道",电影_国产悬疑
+#EXTINF:-1 tvg-name="电影_国产悬疑" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="经典电影",电影_国产悬疑
 http://cfss.cc/cdn/huya/11342395.flv
-#EXTINF:-1 tvg-name="电影_快意江湖" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="电影频道",电影_快意江湖
+#EXTINF:-1 tvg-name="电影_快意江湖" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="经典电影",电影_快意江湖
 http://cfss.cc/cdn/huya/11342435.flv
-#EXTINF:-1 tvg-name="电影_黑帮斗争" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="电影频道",电影_黑帮斗争
+#EXTINF:-1 tvg-name="电影_黑帮斗争" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="经典电影",电影_黑帮斗争
 http://cfss.cc/cdn/huya/11342419.flv
-#EXTINF:-1 tvg-name="电影_古墓系列" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="电影频道",电影_古墓系列
+#EXTINF:-1 tvg-name="电影_古墓系列" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="经典电影",电影_古墓系列
 http://cfss.cc/cdn/huya/11352913.flv
-#EXTINF:-1 tvg-name="电影_嫣然影厅" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="电影频道",电影_嫣然影厅
+#EXTINF:-1 tvg-name="电影_嫣然影厅" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="经典电影",电影_嫣然影厅
 http://cfss.cc/cdn/huya/11601977.flv
-#EXTINF:-1 tvg-name="电影_女神系列" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="电影频道",电影_女神系列
+#EXTINF:-1 tvg-name="电影_女神系列" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="经典电影",电影_女神系列
 http://cfss.cc/cdn/huya/11336571.flv
-#EXTINF:-1 tvg-name="电影_经典女神" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="电影频道",电影_经典女神
+#EXTINF:-1 tvg-name="电影_经典女神" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="经典电影",电影_经典女神
 http://cfss.cc/cdn/huya/11352909.flv
-#EXTINF:-1 tvg-name="电影_许氏三杰" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="电影频道",电影_许氏三杰
+#EXTINF:-1 tvg-name="电影_许氏三杰" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="经典电影",电影_许氏三杰
 http://cfss.cc/cdn/huya/11602033.flv
-#EXTINF:-1 tvg-name="电影_经典港片" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="电影频道",电影_经典港片
+#EXTINF:-1 tvg-name="电影_经典港片" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="经典电影",电影_经典港片
 http://cfss.cc/cdn/huya/11352965.flv
-#EXTINF:-1 tvg-name="电影_镖行天下" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="电影频道",电影_镖行天下
+#EXTINF:-1 tvg-name="电影_镖行天下" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="经典电影",电影_镖行天下
 http://cfss.cc/cdn/huya/11352969.flv
-#EXTINF:-1 tvg-name="电影_高能反转" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="电影频道",电影_高能反转
+#EXTINF:-1 tvg-name="电影_高能反转" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="经典电影",电影_高能反转
 http://cfss.cc/cdn/huya/11352887.flv
-#EXTINF:-1 tvg-name="电影_喜乐影院" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="电影频道",电影_喜乐影院
+#EXTINF:-1 tvg-name="电影_喜乐影院" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="经典电影",电影_喜乐影院
 http://cfss.cc/cdn/huya/21059580.flv
-#EXTINF:-1 tvg-name="电影_蘑菇影厅" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="电影频道",电影_蘑菇影厅
+#EXTINF:-1 tvg-name="电影_蘑菇影厅" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="经典电影",电影_蘑菇影厅
 http://cfss.cc/cdn/huya/11601981.flv
-#EXTINF:-1 tvg-name="电影_搞笑恐怖" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="电影频道",电影_搞笑恐怖
+#EXTINF:-1 tvg-name="电影_搞笑恐怖" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="经典电影",电影_搞笑恐怖
 http://cfss.cc/cdn/huya/11601960.flv
-#EXTINF:-1 tvg-name="电影_死神来了" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="电影频道",电影_死神来了
+#EXTINF:-1 tvg-name="电影_死神来了" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="经典电影",电影_死神来了
 http://cfss.cc/cdn/huya/11352903.flv
-#EXTINF:-1 tvg-name="电影_变形金刚" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="电影频道",电影_变形金刚
+#EXTINF:-1 tvg-name="电影_变形金刚" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="经典电影",电影_变形金刚
 http://cfss.cc/cdn/huya/21059596.flv
-#EXTINF:-1 tvg-name="电影_怪兽系列" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="电影频道",电影_怪兽系列
+#EXTINF:-1 tvg-name="电影_怪兽系列" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="经典电影",电影_怪兽系列
 http://cfss.cc/cdn/huya/21059554.flv
-#EXTINF:-1 tvg-name="搞笑_陈翔六点半" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="电影频道",搞笑_陈翔六点半
+#EXTINF:-1 tvg-name="搞笑_陈翔六点半" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="经典电影",搞笑_陈翔六点半
 http://cfss.cc/cdn/huya/11274154.flv
 
 
