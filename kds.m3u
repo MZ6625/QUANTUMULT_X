@@ -1,5 +1,4 @@
-#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
-#EXTM3U x-tvg-url="https://material.yang-1989.xyz/epg.xml.gz"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/litiande03/epg/refs/heads/master/pl.xml.gz"
 #EXT-X-APP APTV
 #EXT-X-APTV-TYPE remote
 #EXTINF:-1 tvg-id="CCTV1" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV1.png" group-title="央视频道",CCTV1
