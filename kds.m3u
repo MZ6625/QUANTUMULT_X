@@ -1,45 +1,45 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/litiande03/epg/refs/heads/master/pl.xml.gz"
 #EXT-X-APP APTV
 #EXT-X-APTV-TYPE remote
-#EXTINF:-1 tvg-id="CCTV1" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV1.png" group-title="央视频道",CCTV1
+#EXTINF:-1 tvg-id="CCTV-1 综合" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV1.png" group-title="央视频道",CCTV1
 http://t.061899.xyz/tl/tl.php?id=cctv1
-#EXTINF:-1 tvg-id="CCTV2" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV2.png" group-title="央视频道",CCTV2
+#EXTINF:-1 tvg-id="CCTV-2 财经" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV2.png" group-title="央视频道",CCTV2
 http://t.061899.xyz/tl/tl.php?id=cctv2
-#EXTINF:-1 tvg-id="CCTV3" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV3.png" group-title="央视频道",CCTV3
+#EXTINF:-1 tvg-id="CCTV3 综艺" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV3.png" group-title="央视频道",CCTV3
 http://t.061899.xyz/tl/tl.php?id=cctv3
-#EXTINF:-1 tvg-id="CCTV4" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV4.png" group-title="央视频道",CCTV4
+#EXTINF:-1 tvg-id="CCTV4 中文国际" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV4.png" group-title="央视频道",CCTV4
 http://t.061899.xyz/tl/tl.php?id=cctv4
-#EXTINF:-1 tvg-id="CCTV4" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV4美洲.png" group-title="央视频道",CCTV4美洲
+#EXTINF:-1 tvg-id="CCTV4 中文国际美洲" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV4美洲.png" group-title="央视频道",CCTV4美洲
 http://t.061899.xyz/tl/tl.php?id=cctv4m
-#EXTINF:-1 tvg-id="CCTV4" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV4欧洲.png" group-title="央视频道",CCTV4欧洲
+#EXTINF:-1 tvg-id="CCTV4 中文国际欧洲" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV4欧洲.png" group-title="央视频道",CCTV4欧洲
 http://t.061899.xyz/tl/tl.php?id=cctv4o
-#EXTINF:-1 tvg-id="CCTV5" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV5.png" group-title="央视频道",CCTV5
+#EXTINF:-1 tvg-id="CCTV5 体育" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV5.png" group-title="央视频道",CCTV5
 http://t.061899.xyz/tl/tl.php?id=cctv5
-#EXTINF:-1 tvg-id="CCTV5+" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV5+.png" group-title="央视频道",CCTV5+
+#EXTINF:-1 tvg-id="CCTV5+ 体育赛事" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV5+.png" group-title="央视频道",CCTV5+
 http://t.061899.xyz/tl/tl.php?id=cctv5p
-#EXTINF:-1 tvg-id="CCTV6" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV6.png" group-title="央视频道",CCTV6
+#EXTINF:-1 tvg-id="CCTV6 电影" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV6.png" group-title="央视频道",CCTV6
 http://t.061899.xyz/tl/tl.php?id=cctv6
-#EXTINF:-1 tvg-id="CCTV7" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV7.png" group-title="央视频道",CCTV7
+#EXTINF:-1 tvg-id="CCTV7 国防 军事" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV7.png" group-title="央视频道",CCTV7
 http://t.061899.xyz/tl/tl.php?id=cctv7
-#EXTINF:-1 tvg-id="CCTV8" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV8.png" group-title="央视频道",CCTV8
+#EXTINF:-1 tvg-id="CCTV8 电视剧" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV8.png" group-title="央视频道",CCTV8
 http://t.061899.xyz/tl/tl.php?id=cctv8
-#EXTINF:-1 tvg-id="CCTV9" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV9.png" group-title="央视频道",CCTV9
+#EXTINF:-1 tvg-id="CCTV9 记录" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV9.png" group-title="央视频道",CCTV9
 http://t.061899.xyz/tl/tl.php?id=cctv9
-#EXTINF:-1 tvg-id="CCTV10" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV10.png" group-title="央视频道",CCTV10
+#EXTINF:-1 tvg-id="CCTV10 科教" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV10.png" group-title="央视频道",CCTV10
 http://t.061899.xyz/tl/tl.php?id=cctv10
-#EXTINF:-1 tvg-id="CCTV11" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV11.png" group-title="央视频道",CCTV11
+#EXTINF:-1 tvg-id="CCTV11 戏曲" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV11.png" group-title="央视频道",CCTV11
 http://t.061899.xyz/tl/tl.php?id=cctv11
-#EXTINF:-1 tvg-id="CCTV12" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV12.png" group-title="央视频道",CCTV12
+#EXTINF:-1 tvg-id="CCTV12 社会与法" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV12.png" group-title="央视频道",CCTV12
 http://t.061899.xyz/tl/tl.php?id=cctv12
-#EXTINF:-1 tvg-id="CCTV13" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV13.png" group-title="央视频道",CCTV13
+#EXTINF:-1 tvg-id="CCTV13 新闻" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV13.png" group-title="央视频道",CCTV13
 http://t.061899.xyz/tl/tl.php?id=cctv13
-#EXTINF:-1 tvg-id="CCTV14" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV14.png" group-title="央视频道",CCTV14
+#EXTINF:-1 tvg-id="CCTV14 少儿" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV14.png" group-title="央视频道",CCTV14
 http://t.061899.xyz/tl/tl.php?id=cctv14
-#EXTINF:-1 tvg-id="CCTV15" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV15.png" group-title="央视频道",CCTV15
+#EXTINF:-1 tvg-id="CCTV15 音乐" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV15.png" group-title="央视频道",CCTV15
 http://t.061899.xyz/tl/tl.php?id=cctv15
-#EXTINF:-1 tvg-id="CCTV16" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV16.png" group-title="央视频道",CCTV16
+#EXTINF:-1 tvg-id="CCTV16 奥林匹克" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV16.png" group-title="央视频道",CCTV16
 http://t.061899.xyz/tl/tl.php?id=cctv16
-#EXTINF:-1 tvg-id="CCTV17" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV17.png" group-title="央视频道",CCTV17
+#EXTINF:-1 tvg-id="CCTV17 农业 农村" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV17.png" group-title="央视频道",CCTV17
 http://t.061899.xyz/tl/tl.php?id=cctv17
 #EXTINF:-1 tvg-id="CCTV发现之旅" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV发现之旅.png" group-title="央视频道",CCTV发现之旅
 http://t.061899.xyz/tl/tl.php?id=fxzl
@@ -241,7 +241,6 @@ http://cfss.cc/cdn/huya/21059596.flv
 http://cfss.cc/cdn/huya/21059554.flv
 #EXTINF:-1 tvg-id="陈翔六点半" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="经典电影",陈翔六点半
 http://cfss.cc/cdn/huya/11274154.flv
-
 
 
 
